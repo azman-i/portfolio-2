@@ -1,0 +1,19 @@
+body,
+html {
+  height: 100%;
+}
+/* .home-content
+{
+    position:absolute;
+    display:flex;
+    flex-flow:column ;
+    height:100%!important;
+    width:100%;
+    top:30px;
+    margin-bottom: 100px;
+} */
+.title-content
+{
+    padding-left:126px !important;
+    padding-top:127px!important;
+}

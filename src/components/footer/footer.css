@@ -1,0 +1,47 @@
+.container-fluid
+
+{
+    background-color:gainsboro!important;
+}
+.about-links
+{
+    text-align: center;
+    color: black!important;
+}
+.list-un
+{
+    /* display: flex;
+    margin-left:auto!important;
+    margin-right:auto!important; */
+    list-style:none;
+    color:black!important;
+}
+.abcd
+{
+    margin-left:auto!important;
+}
+ .list-align-items:nth-child(1)
+{
+    padding-left:0px;
+}
+.list-align-items:nth-child(2)
+{
+    padding-left:20px!important;
+} 
+.list-align-items:nth-child(3)
+{
+    padding-left:20px!important;
+} 
+.row-class
+{
+    display:flex;
+    width:100%;
+}
+.footer-class
+{
+    position:fixed;
+    bottom:0px;
+    height:80px;
+    align-items:center;
+    display:flex;
+}

@@ -1,0 +1,21 @@
+.navbar
+{
+    /* padding-left:10rem!important; */
+}
+.nav-item
+{
+    /* padding-right:10rem; */
+    /* text-align:center; */
+    
+    
+}
+@media(max-width:1068px)
+{
+    .nav-item{
+    text-align:center;
+    }
+}
+.nav-link
+{
+    color: black!important;;
+}
