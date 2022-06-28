@@ -1,3 +1,15 @@
+.container-projects
+{
+  margin-bottom:100px!important;
+}
+.card-class-project
+{
+  margin-bottom:20px!important;
+}
+.col-style
+{
+  margin-bottom: 20px!important;
+}
 .row-margin-add
 {
   margin-left:20px!important;
@@ -34,3 +46,33 @@
     background-color: #FF0000;
     transition:1s;
   }
+  .card{
+    border-radius:20px;
+    box-shadow: 3px 3px lightblue!important;
+    margin-bottom:20px!important;
+  }
+  .card:hover{
+    transform: scale(1.02)!important;
+    box-shadow: 6px 6px lightblue!important;
+  }
+  .card-title
+  {
+    margin-top: 20px!important;
+    
+  border-bottom:2px solid #eeedfb ;
+  }
+  .component-name
+{
+  display:flex;
+  padding-left:10px;
+  align-items: center;
+  color:mediumaquamarine;
+  border-color: blue;
+  border-radius: 5px;
+}
+.footer-class-cards
+{
+  border-top:2px solid #eeedfb ;
+  
+  box-shadow:2px 2px rgb(61, 106, 121)!important;
+}

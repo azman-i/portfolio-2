@@ -32,7 +32,7 @@ function Navbar()
         </div>
       </li> */}
       <li class="nav-item">
-        <a class="nav-link" href="#">Resume</a>
+        <a class="nav-link" href="/resume">Resume</a>
       </li>
     </ul>
     
